@@ -1,4 +1,4 @@
-# Hi, I'm Ayoub Touati 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=18C5F7&width=435&lines=Hi%2C+I'm+Ayoub+Touati+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 🚀 Software engineer specializing in modern web development across the full stack  
 💡 Passionate about building scalable web applications with clean architecture  
